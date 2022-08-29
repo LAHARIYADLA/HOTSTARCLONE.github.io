@@ -1,30 +1,30 @@
-DISNEY-HOTSTAR-CLONE
+# DISNEY-HOTSTAR-CLONE
 
 Link for the website:
 
 https://6bmsgn.csb.app/
 
-Tech Stacks Used :
+# Tech Stacks Used :
 
 
-.HTML
+- HTML
 
-.CSS
+- CSS
 
-.JavaScript
-
-
-Platform Used:
-
-.Codesandbox
+- JavaScript
 
 
-Features Used:
+# Platform Used:
 
-.carousel slider created by using JavaScript.
+- Codesandbox
 
-.card with background video.
 
-.whenever we hover on card it display movie name and its description.
+# Features Used:
 
-.previous and next buttons slidind effect created by using JavaScript.
+- carousel slider created by using JavaScript.
+
+- card with background video.
+
+- whenever we hover on card it display movie name and its description.
+
+- previous and next buttons slidind effect created by using JavaScript.
